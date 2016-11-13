@@ -1,0 +1,48 @@
+.jumbotron {
+  background-color:#336699;
+  color:#ffffff;
+  padding: 5px 25px 25px 25px;
+  margin-bottom:0px;
+}
+.bg-lightgrey {
+  background-color:#DFE5E6;
+  }
+.container-fluid {
+  padding: 60px 50px;
+  }
+.page-header {
+  padding-top:0px !important;
+}
+.carousel-inner {
+  background-color:#336699;
+}
+.item {
+  text-align:center;
+  padding:15px;
+  font-family:Times;
+    color:white;
+}
+.quote {
+  font-size:20px;
+}
+.sub-quote {
+  font-style:italic;
+  font-size:15px;
+}
+.footer {
+  text-align:center;
+}
+.main-text-box {
+  max-width:400px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:white;
+  padding-top:10px;
+  padding-bottom:5px;
+}
+.main-text {
+  background-color:white;
+  width:300px;
+  margin-left:auto;
+  margin-right:auto;
+}
