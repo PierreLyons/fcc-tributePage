@@ -1,4 +1,4 @@
- * Tribute page*
+ *Tribute page*
 
  This repository will contain all the code used to create a tribute page within the [FreeCodeCamp](https://freecodecamp.com) curriculum.
 
